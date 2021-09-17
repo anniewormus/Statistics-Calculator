@@ -1,9 +1,9 @@
-## Statistics-Calculator
+# Statistics-Calculator
 This statistics calculator is an extensive list of all the basic statistics functions I have come across in my
 intro level statistics class - Shout out to Professor Campbell
-# Use
+## Use
 To use this statistics calculator, update the input_data.txt file with your data values.
-# Compiling
+## Compiling
 To compile this program cd to the directory in you command line and then type
 ```bash
 javac Calculator.java
